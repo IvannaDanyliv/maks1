@@ -1,0 +1,110 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(#FFD300,lightblue,lightgreen,#AD66D5);
+}
+div img{
+    width: 125px;
+    height: 125px;
+    border-radius: 10px;
+}
+.burger{
+    width: 200px;
+    height: 200px;
+    border-radius: 30px;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 64px;
+}
+header a{
+    color: #090974;
+    text-decoration: none;
+}
+h2{
+    color: #090974;
+    font-size: 32px;
+}
+footer a{
+    color: #FFB540;
+}
+h4{
+    color: #090974;
+}
+h5{
+    color: #090974;
+}
+p{
+    color: #090974;
+    font-size: 24px;
+}
+header a{
+    text-align: left;
+    background-image: linear-gradient( #FFB540,#ffe1ae);
+    margin-left: 145px;
+    border-radius: 5px;
+    font-size: 32px;
+    padding: 15px;
+}
+.burger{
+    width: 200px;
+    height: 200px;
+    text-align: left;
+    margin-left: 165px;
+    margin-top: 75px;
+}
+div{
+    display: flex;
+margin-left: 50px;
+}
+.bloger1{
+    margin-left: 70px;
+}
+.bloger2{
+    margin-left: 60px;
+}
+.bloger3{
+    margin-left: 50px;
+}
+.churka{
+    margin-left: 30px;
+}
+.nazik{
+    margin-left: 325px;
+}
+.IP1{
+    background-image: linear-gradient(to right,#660099,#8001c0,#a900fd);
+    text-align: left;
+    padding: 12px;
+    width: 100px;
+    border-radius: 10px;
+    margin-left: 100px;
+}
+.IP{
+    margin-left: 100px;
+}
+.bubliki:hover{
+    padding: 20px;
+    background-image: linear-gradient(#660099,#8001c0,#a900fd);
+    transition: 0.3s;
+    color: #FFD300;
+}
+.burger:hover{
+    border-radius: 40%;
+    transition: 0.7s;
+}
+.churka:hover{
+    border-radius: 40%;
+    transition: 0.7s;
+}
+h1:hover{
+    color: black;
+    transition: 0.3s;
+}
+.IP1:hover{
+    font-size: 3vmax;
+    padding: 16px;
+    color: #660099;
+    background-image: linear-gradient(#FFB540,#ffe1ae);
+    transition: 0.3s;
+}
